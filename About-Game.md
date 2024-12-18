@@ -1,7 +1,3 @@
-Below is a simpler, step-by-step explanation of what’s happening in the code, written in easier language. This explanation assumes you understand the basics of programming and the concept of a blockchain, but it should still be understandable to someone in 10th grade.
-
----
-
 ## What Are We Doing?
 
 We are creating a **Tic-Tac-Toe game** using a programming language called **Move**, which runs on the **Sui** blockchain. The code describes how to:
