@@ -170,7 +170,7 @@ This workshop aims to introduce IIT Bombay students to the fundamentals of Web3 
 2. **Publish the Contract**:
 
     ```bash
-    sui move publish --path ./packages/simple_game --gas-budget 10000
+    sui move publish
     ```
 
 3. **Deploy the Frontend**:
